@@ -1,0 +1,5 @@
+c:\users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TDate\bin\Debug\TDate.dll
+c:\users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TDate\bin\Debug\TDate.pdb
+c:\users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TDate\obj\Debug\TDate.dll
+c:\users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TDate\obj\Debug\TDate.pdb
+c:\users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TDate\obj\Debug\TDate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\bin\Debug\TestBed.exe.config
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\bin\Debug\TestBed.exe
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\bin\Debug\TestBed.pdb
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\bin\Debug\TDate.dll
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\bin\Debug\TDate.pdb
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.csprojResolveAssemblyReference.cache
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.Form1.resources
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.Properties.Resources.resources
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.csproj.GenerateResource.Cache
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.exe
+c:\Users\carl.symington.uk\documents\visual studio 2012\Projects\TDate\TestBed\obj\Debug\TestBed.pdb
